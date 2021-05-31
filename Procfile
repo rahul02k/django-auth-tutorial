@@ -1,1 +1,1 @@
-web: gunicorn django-auth-tutorial --log-file -
+web: gunicorn accounts --log-file -
